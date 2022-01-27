@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+}
+
+group 'com.github.zkingboos.dc'
+version '3.0.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}

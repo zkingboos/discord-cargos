@@ -1,0 +1,5 @@
+rootProject.name = 'discord-cargos'
+include 'server'
+include 'proxy'
+include 'common'
+
